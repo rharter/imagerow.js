@@ -1,0 +1,9 @@
+section.image-row {
+	width: 100%;
+	display: table;
+	border-collapse: collapse;
+}
+
+section.image-row > img {
+	padding: 4px;
+}

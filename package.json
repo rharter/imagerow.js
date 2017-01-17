@@ -1,0 +1,21 @@
+{
+  "name": "imagerow.js",
+  "version": "0.0.1",
+  "description": "Resizes images to create filled rows, preserving aspect ratios",
+  "main": "dist/image-row.js",
+  "jsnext:main": "src/image-row.js",
+  "repository": {},
+  "keywords": [
+    "image",
+    "layout"
+  ],
+  "author": "rharter <ryanjharter@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6.18.0",
+    "babel-plugin-iife-wrap": "1.1.0",
+    "babel-preset-es2015-script": "1.1.0",
+    "uglifyjs": "2.4.10",
+    "webpack": "2.2.0-rc.3"
+  }
+}
